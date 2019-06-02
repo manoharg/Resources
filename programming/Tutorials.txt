@@ -1,0 +1,134 @@
+-----------Tutorials----------
+=====================General===========
+https://www.hackerearth.com/practice/notes
+https://www.hackerearth.com/practice/notes/kaushik.mv3/learn-to-code-by-competitive-programming/
+techiedelight.com
+https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/
+https://www.hackerearth.com/practice/notes/tricky-and-fun-programming-in-c/
+https://www.hackerearth.com/practice/notes/c-stls-when-to-use-which-stl/
+https://www.hackerearth.com/practice/notes/mod-integer-exponentiation-useful-in-competetive-programming/
+https://www.hackerearth.com/practice/notes/powerful-tricks-with-calculation-modulo/
+https://www.hackerearth.com/practice/notes/standard-template-library/
+
+-------------------------------
+https://www.hackerearth.com/practice/notes/sparse-table/
+https://www.hackerearth.com/practice/notes/stl-vector/
+==========================================
+
+================Stacks and queues============
+https://www.hackerearth.com/practice/notes/stacks-and-queues/
+============================
+
+===============Greedy==============
+https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+=================================
+
+=====================Arrays and Strings===============
+https://www.hackerearth.com/practice/notes/array-and-strings-code-monk/
+https://www.hackerearth.com/practice/notes/strings-and-string-manupulation-1/
+https://www.hackerearth.com/practice/notes/exact-string-matching-algorithms/
+https://www.hackerearth.com/practice/notes/strings-and-string-manupulation-1/
+========================================
+
+================Searching and Sorting==============
+https://www.hackerearth.com/practice/notes/power-of-binary-search/
+https://www.hackerearth.com/practice/notes/searching-code-monk/
+https://www.hackerearth.com/practice/notes/sorting-code-monk/
+https://www.hackerearth.com/practice/notes/radix-sort/
+==============================================
+
+============================Number Theory========================
+https://www.hackerearth.com/practice/notes/prime-generator/
+https://www.hackerearth.com/practice/notes/graph-theory-part-i/
+https://www.hackerearth.com/practice/notes/number-theory-1/
+https://www.hackerearth.com/practice/notes/number-theory-ii/
+https://www.hackerearth.com/practice/notes/efficient-factorials-calculation/
+https://www.hackerearth.com/practice/notes/number-theory-iii/
+======================================================
+
+=====================Geometry========================
+https://www.hackerearth.com/practice/notes/how-to-check-if-two-rectangles-intersect-or-not/
+https://www.hackerearth.com/practice/notes/computational-geometry-i-1/
+==============================================
+
+==================Binary Indexed Trees==================
+https://www.hackerearth.com/practice/notes/BLANKRK/binary-indexed-treebit/
+https://www.hackerearth.com/practice/notes/binary-indexed-tree-made-easy-2/
+https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/
+
+====================================
+
+==================Disjoint Set Union========================
+https://www.hackerearth.com/practice/notes/abhinav92003/disjoint-set-union/
+https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
+====================================================
+
+====================Trie==========
+https://www.hackerearth.com/practice/notes/lalitkundu95/tutorial-on-trie-and-example-problems/
+=======================================
+
+=============OpenSource============
+https://www.hackerearth.com/practice/notes/sayanchowdhury/how-to-get-started-with-open-source
+============================================
+
+====================Trees=============
+https://www.hackerearth.com/practice/notes/trees/
+-----Binary Trees-----
+https://www.hackerearth.com/practice/notes/iterative-tree-traversals/
+https://www.hackerearth.com/practice/notes/check-whether-a-binary-tree-is-a-full-binary-tree-or-not/
+
+--------------------
+https://www.hackerearth.com/practice/notes/trie-suffix-tree-suffix-array/
+---------------------
+
+---------Heaps------------
+https://www.hackerearth.com/practice/notes/heaps-and-priority-queues/
+============================================
+
+====================Recursion=====================
+https://www.hackerearth.com/practice/notes/working-of-recursive-function/
+https://www.hackerearth.com/practice/notes/demystifying-recursion-by-stack-tracing/
+=====================================================
+
+=====================Dynamic Programming================
+https://www.hackerearth.com/practice/notes/the-knapsack-problem/
+https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/
+https://www.hackerearth.com/practice/notes/dynamic-programming-for-beginners-part-2-1-d/
+https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/
+https://www.hackerearth.com/practice/notes/codemonk-dynamic-programming-ii-1/
+https://www.hackerearth.com/practice/notes/knapsack-algorithm-problem-solved-using-dynamic-programming/
+=====================================================
+
+
+==================Segment Trees=================
+https://www.hackerearth.com/practice/notes/segment-trees-for-beginners/
+https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+===============================================
+
+===================Graph Theory====================
+https://www.hackerearth.com/practice/notes/describing-graphs/
+https://www.hackerearth.com/practice/notes/finding-all-elementry-cycles-in-a-directed-graph/
+https://www.hackerearth.com/practice/notes/graph-theory-breadth-first-search/
+https://www.hackerearth.com/practice/notes/dijkstras-algorithm/
+https://www.hackerearth.com/practice/notes/graph-theory-part-ii/
+===================================================
+
+==================Linked List==================
+https://www.hackerearth.com/practice/notes/implement-an-algorithm-to-delete-a-node-in-the-middle-of-a-single-linked-list-given-only-access-to-that-node/
+=================================
+
+=====================Bitwise Programming=================
+https://www.hackerearth.com/practice/notes/fast-matrix-exponentiation-2/
+https://www.hackerearth.com/practice/notes/bit-manipulation-hacks/
+https://www.hackerearth.com/practice/notes/bit-manipulation/
+======================================================
+
+==========================Matrix exponentiation===========
+https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/
+===========================================================
+
+
+===================Interview Questions============
+https://www.hackerearth.com/practice/notes/thoughtworks-interview-question/
+https://www.hackerearth.com/practice/notes/design-patterns-1/
+
