@@ -2,6 +2,8 @@ https://medium.com/@lohitmarodia/game-theory-competitive-programming-98120cc14da
 https://codeforcex.quora.com/Game-Theory-with-examples
 https://codeforces.com/blog/entry/23204
 
+https://cp-algorithms.com/
+
 https://www.codesdope.com/course/data-structures-linked-lists/
 
 -----------Tutorials----------
