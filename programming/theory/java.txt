@@ -1,0 +1,3 @@
+
+1. Arrays.copyOf(arr, length) --> creates and array of size length,and copies and elements into it
+2. Arrays.toString(arr)  -> can be used for debugging

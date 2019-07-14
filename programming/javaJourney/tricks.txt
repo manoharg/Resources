@@ -1,0 +1,18 @@
+-- Read input in java
+https://codeforces.com/blog/entry/7018
+https://www.cpe.ku.ac.th/~jim/java-io.html
+
+--sort arrays in java
+https://codeforces.com/blog/entry/7108
+
+--big integer
+https://codeforces.com/blog/entry/17235
+
+--All java
+https://sites.google.com/site/indy256/
+https://github.com/akullpp/awesome-java
+
+
+
+--> Arrays.toDeepString() to print arrays
+--> map.foreach((k,v)-> {}) or keySet()
