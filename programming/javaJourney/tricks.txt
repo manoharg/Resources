@@ -16,3 +16,16 @@ https://github.com/akullpp/awesome-java
 
 --> Arrays.toDeepString() to print arrays
 --> map.foreach((k,v)-> {}) or keySet()
+
+
+Interview Questions:
+--> java is pass by value, not pass by reference . References to objects are copied to the variables of passing method
+--> Memory allocation in heap:
+	Heap is divided into young(Eden, survival) , old, permanent generation.
+	All new objects are stored in young geneeration.Once young generation(Eden memory) is full GC runs, and moves the survived objects to survival zone(s1) and objects in s1 to s2, so at any time one survival zone would be empty. Objects which are survived after many iterations are moved to old generation. Permanent gen contains objects which are required for JVM to run, string pool etc.
+Garbage collections: whole application would stop while gc is running. Mark and sweep algo is used by Gc. steps: mark, sweep, compaction .CMS is also a gc algorithms which spawns threads
+
+Strigs: Strings intialized by double quotes are stored in string pool. Intialized with new are stored in heap memory. Interim method can be used to move objects into pool. 
+String builder and string buffer are muatable where as string is immutable
+stringbuffer is thread safe and synchronised , a little slow
+String builder is fast and not thread safe 
