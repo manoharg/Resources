@@ -28,4 +28,35 @@ Garbage collections: whole application would stop while gc is running. Mark and 
 Strigs: Strings intialized by double quotes are stored in string pool. Intialized with new are stored in heap memory. Interim method can be used to move objects into pool. 
 String builder and string buffer are muatable where as string is immutable
 stringbuffer is thread safe and synchronised , a little slow
-String builder is fast and not thread safe 
+String builder is fast and not thread safe
+
+
+Equals and hashcode():
+--> Contract of equals and hashcode
+--> 1. x.equals(x) should be true
+	2. if x is equal to y, y should be equal to x
+	3. transitive property should hold
+	4. if x is equal to y, hashcode of x and y should be same
+	5. If x is not equal to y, hashcode may be equal , may not be equal
+
+How HashMap works:
+0-> LinkedList of EntrySet<key, value> 
+step 1: hashcode of key is calculated to find the bucket(linked list). Using the same hashcode, check whether hashcode of key and node are equal, if equal
+check whether content equals  (Get)
+In put, in the bucket if you find a node overwrite it, or else create a new one
+
+Java 8:
+1. default and static methods are allowed in interfaces , this might lead to diamond problem. To solve this, compiler will throw error .
+Methods with same name should be overriden if we are implementing multiple interfaces which have same methods
+Composition is better than inheritance:
+--> b/c of security holes in super class
+--> if a method signature is changed to a method of child class , compiler will throw error and we need to change it everywhere
+
+Functional Interfaces:
+Interface having only one abstract method is called fi, @Functional Interface is not mandatory, but it allows compiler to check that only one abstract method is defined in interface.
+Lambda expression --> short form of creating classes which implements functional interfaces
+
+Streams:
+Uses function(input, return), predicate, consumer, suppiler interfaces
+Terminals would not return stream, intermediate operations would return streams.
+Method Reference: short form of lamda expressions, (Need to study more)  
