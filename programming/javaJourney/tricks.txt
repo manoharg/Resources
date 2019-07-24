@@ -17,6 +17,13 @@ https://github.com/akullpp/awesome-java
 --> Arrays.toDeepString() to print arrays
 --> map.foreach((k,v)-> {}) or keySet()
 
+StringTokenizer st= new StringTokenizer();
+st.hasMoreTokens() --> returns boolean
+st.nexToken();
+OR
+
+String[] arr= br.readLine().trim().split("\\s+");
+
 
 Interview Questions:
 --> java is pass by value, not pass by reference . References to objects are copied to the variables of passing method
@@ -60,3 +67,14 @@ Streams:
 Uses function(input, return), predicate, consumer, suppiler interfaces
 Terminals would not return stream, intermediate operations would return streams.
 Method Reference: short form of lamda expressions, (Need to study more)  
+
+
+JIT Compiler (just in time):
+part of JRE responsible for performance optimization:
+when we do javac, high level language code is converted into byte code
+java: whole byte code is converted to machine instructions by the jvm
+where as in jit, whole byte code will not be converted at once, based on requirement , it will be converted
+Source: GeeksforGeeks
+
+
+

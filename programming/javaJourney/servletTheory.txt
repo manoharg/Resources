@@ -1,0 +1,39 @@
+
+Servlet:
+When a client sends a request to a page, the web container(tomcat, glassfish, jboss) on the server will look in the web.xml (deployment descriptor) and will serve the page.
+In spring, Dispatcher servlet does this work,all requests will be forwarded to dispatcher servlet.
+Sample Code to define sevlet in web.xml :
+<servlet>
+	<name>
+	<class>
+</servlet>
+<servlet-mapping>
+	<name>
+	</url>
+</servlet-mapping>
+
+Calling a servlet from another:
+RequestDispatcher or Redirect:
+One servlet can call other servlet using requestDispatcher, and session can be used to retrieve attributes. You can also set in httpRequest (setAttribute)
+In RequestDispatcher , client will not know from where the response is getting.
+In redirecting, client will be redirected (Payment gateway)
+
+Session:
+Instead of putting variables in http request, tomcat maintains a session which can be used by servlets to put variables in it.
+Any servlet can access a session. 
+
+Coockies:
+Ex: step 1: client visists a server for first time ( you took a ticket from conductor), but both of you don't have enough change.
+So, conductor writes the change on the ticket,(so, this is like a coockie) and sends back to client.
+For all subsequent requests, client sends back coockies to server. Based , on these coockies user dashboard can be personalised
+
+Servlet context and configuration:
+Configuration parameters like database url, pwd etc. can be stored in servlet context or configuration.
+Each servlet can have its own configuration (Servlet context) or a global configuration which can be shared by all(Servlet configuration).
+<init-param>		<context-param>
+</init-param>  or 	</context-param>
+
+
+
+
+
