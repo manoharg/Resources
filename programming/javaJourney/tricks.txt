@@ -77,4 +77,7 @@ where as in jit, whole byte code will not be converted at once, based on require
 Source: GeeksforGeeks
 
 
+Design Patterns:
+
+
 
